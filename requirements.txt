@@ -1,0 +1,14 @@
+numpy
+pandas
+opencv-python
+click
+tqdm
+matplotlib
+seaborn
+Pillow
+jupyter
+ipython
+ipdb
+sklearn
+scikit-image
+tensorflow-gpu
